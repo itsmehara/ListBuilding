@@ -1,6 +1,5 @@
-Here's a table listing software companies based in or near Texas, USA, with fewer than 100 employees:
-
-
+Table listing software companies based in or near Texas, USA, with fewer than 100 employees:
+Below list is not the corrected or finalized data. it is still in preparing.
 
 
 
