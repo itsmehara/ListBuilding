@@ -3,7 +3,7 @@ Here is a list of software companies based in Texas, USA, along with their websi
 | Company Name              | Website                          | Employee Size | Area of Work                                                                 | Location        |
 |---------------------------|----------------------------------|---------------|-------------------------------------------------------------------------------|-----------------|
 | Unified Infotech          | [unifiedinfotech.net](https://unifiedinfotech.net) | 50 - 249      | Custom software solutions, digital transformation, technology consulting      | Austin, Texas   |
-| SDLC Corp                 | [sdlc.com](https://sdlc.com)     | 250 - 999     | Software development, mobile apps, web development, enterprise software      | Austin, Texas   |
+| SDLC Corp                 | [[sdlc.com](https://sdlc.com)](https://sdlccorp.com/career/)     | 250 - 999     | Software development, mobile apps, web development, enterprise software      | Austin, Texas   |
 | Groovy Web                | [groovyweb.com](https://groovyweb.com) | 100 - 249     | Mobile app and web development, SaaS, MVP, MERN, bots, browser extensions    | Katy, Texas     |
 | Naked Development         | [nakeddev.com](https://nakeddev.com) | Under 49      | Creative development, consultancy, user experience design                    | Austin, Texas   |
 | Suffescom Solutions Inc   | [suffescom.com](https://suffescom.com) | 250 - 499     | Mobile app development, software solutions across diverse industries         | Austin, Texas   |
